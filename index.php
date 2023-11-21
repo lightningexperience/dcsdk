@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Salesforce Data Cloud Hands-on Workshop</title>
+        <title>Salesforce Data Cloud HandsOn Workshop</title>
         <script type="text/javascript" src="https://cdn.c360a.salesforce.com/XYZ/scripts/c360a.min.js"></script>      
     </head>
     <body>
