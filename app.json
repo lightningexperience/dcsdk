@@ -1,0 +1,13 @@
+{
+  "name": "Data Cloud Workshop - DC SDK",
+  "description": "A Single Page HTML App.",
+  "repository": "https://github.com/lightningexperience/dcsdk",
+  "logo": "",
+  "keywords": ["php", "crud", "mysql"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-php"
+    }
+  ]
+  
+}
