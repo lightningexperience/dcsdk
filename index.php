@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>Salesforce Data Cloud HandsOn Workshop</title>
-        <script type="text/javascript" src="https://cdn.c360a.salesforce.com/XYZ/scripts/c360a.min.js"></script>      
+        <script type="text/javascript" src="https://cdn.c360a.salesforce.com/beacon/c360a/67c8dbbf-6d90-4fe7-8a1a-f43c5eab3361/scripts/c360a.min.js"></script>      
     </head>
     <body>
 <div style=" 
